@@ -10,3 +10,4 @@ protobuf==3.20.3
 altair==4.2.2
 hydralit_components==1.0.9
 numerize==0.12
+click==8.0.4
