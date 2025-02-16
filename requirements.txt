@@ -8,3 +8,5 @@ streamlit==1.5.1
 streamlit_lottie==0.0.3
 protobuf==3.20.3
 altair==4.2.2
+hydralit_components==1.0.9
+numerize==0.12
